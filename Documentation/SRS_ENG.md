@@ -10,8 +10,6 @@
   3.1 [Functional requirements](#3.1) <br>
   3.2 [Non-functional requirements](#3.2) <br>
      3.2.1 [Quality Attributes](#3.2.1) <br>
-     3.2.1.1 [External criteria](#3.2.1.1) <br>
-     3.2.1.2 [Internal criteria](#3.2.1.2) <br>
 4. [Analogs](#4) <br>
 
 ### 1. Introduction <a name="1"></a>
@@ -71,9 +69,7 @@ The user has the following options:
 
 #### 3.2. Non-functional requirements <a name="3.2"></a>
   ##### 3.2.1. Quality Attributes <a name="3.2.1"></a>
-  ##### 3.2.1.1 External Criteria <a name="3.2.1.1"></a>
 Nice interface, the most understandable to players of all ages;
-  ##### 3.2.1.2 Internal criteria <a name="3.2.1.2"></a>
 Addictive gameplay
 ### 4. Analogs  <a name="4"></a>
 The following sources of inspiration were found on the open spaces of Google Play:
