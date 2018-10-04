@@ -5,6 +5,7 @@
   2.1. [Software interfaces](#2.1) <br>
   2.2. [User interface](#2.2) <br>
   2.3. [User characteristics](#2.3) <br>
+  2.4. [Assumptions and dependencies](#2.4) <br>
 3. [System requirements](#3.) <br>
   3.1 [Functional requirements](#3.1) <br>
   3.2 [Non-functional requirements](#3.2) <br>
@@ -48,6 +49,10 @@ With a perfect slide off the hill, the player gets accelerated and have longer f
 #### 2.3. User characteristics <a name="2.3"></a>
 
 The target audio of this game will cover all age categories due to the simple but addictive gameplay.
+
+#### 2.4. Assumptions and dependencies <a name="2.4"></a>
+
+To install this application on the device, the file with the .apk extension is used. On some little-known models of smartphones, this type of files is not recognized by the system and additional utilities must be installed. Also, the standard defender of the security of some Android devices may take the file as a threat to the system and you need to specify in the settings a personal permission to install from this file.
 
 ### 3. System Requirements <a name="3"></a>
 
