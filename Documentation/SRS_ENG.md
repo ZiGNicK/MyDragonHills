@@ -1,78 +1,80 @@
-# Требования к проекту
-### Содержание
-1. [Введение](#1)
-2. [Требования пользователя](#2) <br>
-  2.1. [Программные интерфейсы](#2.1) <br>
-  2.2. [Интерфейс пользователя](#2.2) <br>
-  2.3. [Характеристики пользователей](#2.3) <br>
-3. [Системные требования](#3.) <br>
-  3.1 [Функциональные требования](#3.1) <br>
-  3.2 [Нефункциональные требования](#3.2) <br>
-     3.2.1 [Атрибуты качества](#3.2.1) <br>
-     3.2.1.1 [Внешние критерии](#3.2.1.1) <br>
-     3.2.1.2 [Внутренние критерии](#3.2.1.2) <br>
-4. [Аналоги](#4) <br>
+# Project Requirements
+### Content
+1. [Introduction](#1)
+2. [User requirements](#2) <br>
+  2.1. [Software interfaces](#2.1) <br>
+  2.2. [User interface](#2.2) <br>
+  2.3. [User characteristics](#2.3) <br>
+3. [System requirements](#3.) <br>
+  3.1 [Functional requirements](#3.1) <br>
+  3.2 [Non-functional requirements](#3.2) <br>
+     3.2.1 [Quality Attributes](#3.2.1) <br>
+     3.2.1.1 [External criteria](#3.2.1.1) <br>
+     3.2.1.2 [Internal criteria](#3.2.1.2) <br>
+4. [Analogs](#4) <br>
 
-### 1. Введение <a name="1"></a>
-DragonHills - игровой симулятор побега дракончика из родительского гнезда. Именно Вам предстоит помочь ему продлить его прогулку как можно дольше, за это Вам будут выданы очки. По пути есть шанс найти кристаллы, которые будут упрощать прохождение в последующих играх.
+### 1. Introduction <a name="1"></a>
+DragonHills is a game simulator of dragon escape from the parental nest. You have to help him extend his walk as long as possible, for that you will get points. Along the way there is a chance to find crystals that will simplify the walk in next games.
 
-### 2. Требования пользователя <a name="2"></a>
-#### 2.1. Программные интерфейсы <a name="2.1"></a>
-Данная игра базируется на движке Unity3D версии 2018.2.2f1(64bit)
-#### 2.2. Интерфейс пользователя <a name="2.2"></a>
+### 2. User requirements <a name="2"></a>
+#### 2.1. Software interfaces <a name="2.1"></a>
+This game is based on the Unity3D engine version 2018.2.2f1 (64bit)
 
-- Главное меню
+#### 2.2. User interface <a name="2.2"></a>
 
-Данный экран будет предоставлять игроку следующие возможности:
-1. Начать игру
-2. Зайти во внутриигровой магазин
-3. Посмотреть раздел FAQ
-4. Изменить настройки игры
-5. Увидеть список лидеров
+- Main menu
+
+This screen will provide the Player with the following features:
+1. Start the game
+2. Enter the in-game store
+3. View FAQ section
+4. Change game settings
+5. See the leaderboard
 
   ![MainMenu](https://github.com/ZiGNicK/MyDragonHills/blob/master/Mockups/Menu.png)
   
-- Экран геймплея
+- Gameplay screen
 
-Экран самого игрового процесса, где Игрок скользит по холмам, набирая очки и кристаллы.
-Внизу видно, как далеко Игрок прошел в текущем секторе
-Также имеется кнопка паузы 
+The gameplay screen, where the Player slides over the hills, collecting points and crystals.
+Below you can see how far the player has passed in the current sector.
+There is also a pause button.
 
   ![GamePlay](https://github.com/ZiGNicK/MyDragonHills/blob/master/Mockups/Brills_2.jpg)
   
-При идеальном соскальзывании с холма, Игрок полумает ускорение и более дальний полет (эффект "SWOOSH!"). При серии из 3х SWOOSH! дракончик начинает изрыгать пламя и Игроку засчитываются доп очки за каждую секунду эффекта (Fire Breath)
+With a perfect slide off the hill, the player gets accelerated and have longer fly ("SWOOSH!" Effect). With a series of 3 SWOOSH! the dragon begins to spew flames and gives the Player additional points for each second of the effect (Fire Breath)
 
   ![SWOOSH](https://github.com/ZiGNicK/MyDragonHills/blob/master/Mockups/Swoosh.jpg)
 
-#### 2.3. Характеристики пользователей <a name="2.3"></a>
+#### 2.3. User characteristics <a name="2.3"></a>
 
-Целевая аудиория данной Игры будет охватывать все возрастные категории по причине простого, но затягивающего геймплея.
+The target audio of this game will cover all age categories due to the simple but addictive gameplay.
 
-### 3. Системные требования <a name="3"></a>
-Данная игра поддерживается всеми смартфонами и планшетами с операционной системой Android версии 4 и выше.
+### 3. System Requirements <a name="3"></a>
 
-#### 3.1. Функциональные требования <a name="3.1"></a>
-Пользователю предоставлены следующие возможности
-   1. Начать игру, нажав по соответствующей кнопке на экране главного меню.;
-   2. Зайти во внутриигровой магазин;
-   3. Посмотреть раздел FAQ;
-   4. Включить/отключить звуковые эффекты;
-   5. Включить/отключить музыкальные эффекты;
-   6. Увидеть список лидеров;
-   7. Во время игры управлять углом наклона дракончика, чтобы достичь наилучшего скольжения;
-   8. Выход из игры.
+This game is supported by all smartphones and tablets with the Android operating system version 4 and above.
 
-#### 3.2. Нефункциональные требования <a name="3.2"></a>
-  ##### 3.2.1. Атрибуты качества <a name="3.2.1"></a>
-  ##### 3.2.1.1 Внешние критерии <a name="3.2.1.1"></a>
-Приятный интерфейс, максимально понятный Игрокам всех возрастов;
-  ##### 3.2.1.2 Внутренние критерии <a name="3.2.1.2"></a>
-Захватывающий геймплей
-### 4. Аналоги <a name="4"></a>
-На просторах Google Play были найдены следующие источники вдохновения:
+#### 3.1. Functional requirements <a name="3.1"></a>
+The user has the following options:
+   1. Start the new game by clicking on the appropriate button on the main menu screen;
+   2. Enter the in-game store;
+   3. View the FAQ section;
+   4. Enable / disable sound effects;
+   5. Enable / disable music effects;
+   6. See the leaderboard;
+   7. During the game, control the angle of the whelp in order to achieve the best slip;
+   8. Exit the game.
+
+#### 3.2. Non-functional requirements <a name="3.2"></a>
+  ##### 3.2.1. Quality Attributes <a name="3.2.1"></a>
+  ##### 3.2.1.1 External Criteria <a name="3.2.1.1"></a>
+Nice interface, the most understandable to players of all ages;
+  ##### 3.2.1.2 Internal criteria <a name="3.2.1.2"></a>
+Addictive gameplay
+### 4. Analogs  <a name="4"></a>
+The following sources of inspiration were found on the open spaces of Google Play:
 - [Dragon,Fly!](https://play.google.com/store/apps/details?id=com.lsgvgames.slideandfly)
-  - Основной идейный вдохновитель
+  - The main ideological inspirer
 - [Dragon Hills](https://play.google.com/store/apps/details?id=com.rebeltwins.dragonhills)
-	- Игра, где основная механика схожа с механикой SWOOSH'ей.
+  - A game where the basic mechanics are similar to the SWOOSH mechanics.
 - [Balls Journey](https://play.google.com/store/apps/details?id=io.voodoo.ballsjourney)
-	- Игра, где основная механика схожа с механикой SWOOSH'ей.
+  - A game where the basic mechanics are similar to the SWOOSH mechanics.
