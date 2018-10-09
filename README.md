@@ -2,3 +2,4 @@
 A simple game to relax and test your skills
 ## [Mockups](https://github.com/ZiGNicK/MyDragonHills/tree/master/Mockups)
 ## Documentation: [RU](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/SRS_RU.md), [ENG](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/SRS_ENG.md)
+## [Glosssary](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/Glossary.md)
