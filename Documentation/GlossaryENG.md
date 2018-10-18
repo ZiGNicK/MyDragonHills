@@ -8,6 +8,7 @@
 | Main Menu | Screen that appears when Player enters a game |
 | Leaderboards | A list of top Players with highest scores |
 | Crystalls | In-game currency |
+| Buff | Positive effect |
 | Swoosh | Speed buff for main character |
 | Fire Mode | Buff that gives additional points |
 | FPS | Frames per second |
