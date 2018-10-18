@@ -14,7 +14,7 @@
 ### [Глоссарий(ENG)](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/Glossary.md)
 
 ### 1. Диаграмма активности<a name="1"></a>
-Диаграммы активности: ([Ru](https://github.com/ZiGNicK/MyDragonHills/tree/master/Diagrams/Activities)).
+Диаграммы активности: ([Ru](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Activities/README.md)).
 
 ### 2. Диаграмма последовательности<a name="2"></a>
 Диаграмма последовательности основного варианта использования на примере действий с прочитанными книгами:
