@@ -10,3 +10,4 @@
 | Crystalls | In-game currency |
 | Swoosh | Speed buff for main character |
 | Fire Mode | Buff that gives additional points |
+| FPS | Frames per second |
