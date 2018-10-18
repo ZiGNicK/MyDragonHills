@@ -11,7 +11,7 @@
 3.2.5 [Посетить список лидеров](#3.2.5)<br>
 3.2.6 [Зайти в мультиплеер](#3.2.6)<br>
 
-### Глоссарий: [ENG](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/Glossary.md)
+### Глоссарий: [ENG](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/GlossaryENG.md), [RU](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/GlossaryRU.md)
 
 ### 1. Диаграмма активности<a name="1"></a>
 Диаграммы активности: ([Ru](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Activities/README.md)).
