@@ -11,13 +11,13 @@
 3.2.5 [Посетить список лидеров](#3.2.5)<br>
 3.2.6 [Зайти в мультиплеер](#3.2.6)<br>
 
-### [Глоссарий(ENG)](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/Glossary.md)
+### Глоссарий: [ENG](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/Glossary.md)
 
 ### 1. Диаграмма активности<a name="1"></a>
 Диаграммы активности: ([Ru](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Activities/README.md)).
 
 ### 2. Диаграмма последовательности<a name="2"></a>
-Диаграмма последовательности основного варианта использования на примере действий с прочитанными книгами:
+Диаграмма последовательности основного варианта использования:
 ![Диаграмма последовательности]()
 
 ### 3. Диаграмма прецедентов<a name="3"></a>
