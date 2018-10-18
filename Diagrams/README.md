@@ -17,7 +17,10 @@
 Диаграммы активности: ([Ru](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Activities/README.md)).
 
 ### 2. Диаграмма последовательности<a name="2"></a>
+Все диаграммы: ([Ru](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Sequences/README.md)).
+
 Диаграмма последовательности основного варианта использования на примере геймплея:
+
 ![Диаграмма последовательности](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Sequences/MainSequence.jpg)
 
 ### 3. Диаграмма прецедентов<a name="3"></a>
