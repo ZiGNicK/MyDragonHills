@@ -127,7 +127,8 @@
 ![Диаграмма классов](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Class/Class%20Diagram.jpg)
 
 ### 7. Диаграмма развертывания<a name="7"></a>
-
+1)
 ![Диаграмма развертывания](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram.jpg)
 
-![Диаграмма развертывания_2](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram_2.jpg)
+2)
+![Диаграмма развертывания_2](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram_.jpg)
