@@ -129,3 +129,5 @@
 ### 7. Диаграмма развертывания<a name="7"></a>
 
 ![Диаграмма развертывания](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram.jpg)
+
+![Диаграмма развертывания_2](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram_2.jpg)
