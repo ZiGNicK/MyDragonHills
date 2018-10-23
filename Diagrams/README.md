@@ -131,4 +131,4 @@
 ![Диаграмма развертывания](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram.jpg)
 
 2)
-![Диаграмма развертывания_2](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram_2.jpg)
+![Диаграмма развертывания_2](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram_3.jpg)
