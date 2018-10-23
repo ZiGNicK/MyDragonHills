@@ -10,6 +10,10 @@
 1.2.6 [Зайти в мультиплеер](#1.2.6)<br>
 2. [Диаграмма активности](#2)
 3. [Диаграмма последовательности](#3)
+4. [Диаграмма состояний](#4)
+5. [Диаграмма классов](#5)
+6. [Диаграмма компонентов](#6)
+7. [Диаграмма развертывания](#7)
 
 ### Глоссарий: [ENG](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/GlossaryENG.md), [RU](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/GlossaryRU.md)
 
@@ -118,4 +122,10 @@
 
 ![Диаграмма последовательности](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Sequences/MainSequence.jpg)
 
+### 5. Диаграмма классов<a name="5"></a>
 
+![Диаграмма классов](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Class/Class%20Diagram.jpg)
+
+### 7. Диаграмма развертывания<a name="7"></a>
+
+![Диаграмма развертывания](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram.jpg)
