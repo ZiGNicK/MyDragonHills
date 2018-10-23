@@ -12,8 +12,7 @@
 3. [Диаграмма последовательности](#3)
 4. [Диаграмма состояний](#4)
 5. [Диаграмма классов](#5)
-6. [Диаграмма компонентов](#6)
-7. [Диаграмма развертывания](#7)
+6. [Диаграмма развертывания](#6)
 
 ### Глоссарий: [ENG](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/GlossaryENG.md), [RU](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/GlossaryRU.md)
 
@@ -126,7 +125,7 @@
 
 ![Диаграмма классов](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Class/Class%20Diagram.jpg)
 
-### 7. Диаграмма развертывания<a name="7"></a>
+### 6. Диаграмма развертывания<a name="6"></a>
 1)
 ![Диаграмма развертывания](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Deployment/Deployment%20Diagram.jpg)
 
