@@ -121,6 +121,10 @@
 
 ![Диаграмма последовательности](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Sequences/MainSequence.jpg)
 
+### 4. Диаграмма состояний<a name="4"></a>
+
+Диагрыммы состояний: ([Ru](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/State/README.md))
+
 ### 5. Диаграмма классов<a name="5"></a>
 
 ![Диаграмма классов](https://github.com/ZiGNicK/MyDragonHills/blob/master/Diagrams/Class/Class%20Diagram.jpg)
