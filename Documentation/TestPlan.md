@@ -132,7 +132,7 @@
 
 <a name="6"></a>
 ### 6. Представление результатов
-Результаты тестирования представлены в [таблице](https://github.com/steppbol/B-Player/blob/master/docs/Project%20Documentation/TestPlan/TestResults.md).
+Результаты тестирования представлены в [таблице](https://github.com/ZiGNicK/MyDragonHills/blob/master/Documentation/TestResult.md).
 
 <a name="7"></a>
 ### 7. Выводы
